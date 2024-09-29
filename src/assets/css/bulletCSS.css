@@ -1,0 +1,13 @@
+span.my-bullet-active{
+    opacity: 1;
+    background: #007aff;
+}
+.my-bullet{
+    width: 35px;
+    height: 5px;
+    display: inline-block;
+    border-radius: 100px;
+    background: #8F8F8F;
+    opacity: 0;
+    margin-left: 10px;
+}
