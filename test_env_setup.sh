@@ -10,7 +10,7 @@ username_node1="root"
 password_node1="brilliance@2025"
 remoteip_node1="36.129.30.215"
 
-username_node2="www"
+username_node2="admin"
 password_node2="1qaz2wsx."
 remoteip_node2="36.129.30.214"
 
