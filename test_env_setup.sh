@@ -7,11 +7,11 @@ ip_node2="172.16.58.47"
 node_count=2
 
 username_node1="root"
-password_node1="brilliance@2025"
+password_node1="q1w2e3r4"
 remoteip_node1="36.129.30.215"
 
-username_node2="root"
-password_node2="brilliance@2025"
+username_node2="www"
+password_node2="1qaz2wsx."
 remoteip_node2="36.129.30.214"
 
 
